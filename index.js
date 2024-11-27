@@ -80,6 +80,7 @@ app.get('/carrito/:userId', (req, res) => {
 // Agregar producto al carrito
 app.post('/carrito/:userId', (req, res) => {
     const userId = req.params.userId;
+    console.log(`Datos recibidos para usuario ${userId}:`, req.body);
     const { id, nombre, precio, cantidad } = req.body;
 
     if (!carts[userId]) carts[userId] = [];
