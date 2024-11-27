@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "categoria": "Snacks",
+    "descripcion": "Galletas de chocolate",
+    "disponible": true,
+    "imagenURL": "http://localhost:3000/uploads/1732654179738.webp",
+    "nombre": "Galletas de chocolate",
+    "precio": 7,
+    "stock": 30
+  },
+  {
+    "id": "2",
+    "categoria": "Chocotejas",
+    "descripcion": "Chocoteja rellena de manjar blanco",
+    "disponible": true,
+    "imagenURL": "http://localhost:3000/uploads/1732667676589.jpg",
+    "nombre": "Galletas de chocolate",
+    "precio": 5,
+    "stock": 30
+  },
+  {
+    "id": "3",
+    "categoria": "Peluches",
+    "descripcion": "Oso mediano para varones\n",
+    "disponible": true,
+    "imagenURL": "http://localhost:3000/uploads/1732668006353.jpg",
+    "nombre": "Oso para varones",
+    "precio": 30,
+    "stock": 20
+  }
+]
