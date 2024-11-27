@@ -4,7 +4,7 @@
     "categoria": "Snacks",
     "descripcion": "Galletas de chocolate",
     "disponible": true,
-    "imagenURL": "http://localhost:3000/uploads/1732654179738.webp",
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732654179738.webp",
     "nombre": "Galletas de chocolate",
     "precio": 7,
     "stock": 30
@@ -14,7 +14,7 @@
     "categoria": "Chocotejas",
     "descripcion": "Chocoteja rellena de manjar blanco",
     "disponible": true,
-    "imagenURL": "http://localhost:3000/uploads/1732667676589.jpg",
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732667676589.jpg",
     "nombre": "Galletas de chocolate",
     "precio": 5,
     "stock": 30
@@ -24,9 +24,79 @@
     "categoria": "Peluches",
     "descripcion": "Oso mediano para varones\n",
     "disponible": true,
-    "imagenURL": "http://localhost:3000/uploads/1732668006353.jpg",
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732668006353.jpg",
     "nombre": "Oso para varones",
     "precio": 30,
     "stock": 20
+  },
+  {
+    "id": "4",
+    "categoria": "Bolsos",
+    "descripcion": "Bolso ganchillo hecho a mano",
+    "disponible": true,
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732696035746.jpeg",
+    "nombre": "Bolso Ganchillo",
+    "precio": 35,
+    "stock": 25
+  },
+  {
+    "id": "5",
+    "categoria": "Sorpresas",
+    "descripcion": "Cajita sorpresa, no te diré que hay dentro.",
+    "disponible": true,
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732696112552.jpeg",
+    "nombre": "Cajita Sorpresa",
+    "precio": 40,
+    "stock": 30
+  },
+  {
+    "id": "6",
+    "categoria": "Carteras",
+    "descripcion": "Carteras artesanales hechas a mano",
+    "disponible": true,
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732696166216.jpeg",
+    "nombre": "Cartera artesanal",
+    "precio": 40,
+    "stock": 45
+  },
+  {
+    "id": "7",
+    "categoria": "Estuches",
+    "descripcion": "Estuche con reloj, billetera, linterna pequeña y lapicero",
+    "disponible": true,
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732696340913.jpg",
+    "nombre": "Estuche para papá",
+    "precio": 100,
+    "stock": 30
+  },
+  {
+    "id": "8",
+    "categoria": "Paquetes",
+    "descripcion": "Pack navideño de dulces",
+    "disponible": true,
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732696419588.jpeg",
+    "nombre": "Pack navideño",
+    "precio": 55,
+    "stock": 15
+  },
+  {
+    "id": "9",
+    "categoria": "Peluches",
+    "descripcion": "Peluche femenino con rosas y globo",
+    "disponible": true,
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732696533433.jpeg",
+    "nombre": "Peluche femenino",
+    "precio": 60,
+    "stock": 18
+  },
+  {
+    "id": "10",
+    "categoria": "Ramos",
+    "descripcion": "Ramo de papel llenado con chocolates",
+    "disponible": true,
+    "imagenURL": "https://jhanpool20.github.io/Api_chocodetalles/uploads/1732696629290.jpg",
+    "nombre": "Ramo con chocolates",
+    "precio": 30,
+    "stock": 40
   }
 ]
